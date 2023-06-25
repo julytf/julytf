@@ -11,7 +11,7 @@
 ### 🧰 Languages and Frameworks
 
 </br>
-
+<img/>
 <img align="left" width="60px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
 <img align="left" width="60px" style="padding-right:10px;" alt="nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
