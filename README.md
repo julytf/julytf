@@ -10,7 +10,6 @@
 
 ### 🧰 Languages and Frameworks
 
-</br>
 <img/>
 <img align="left" width="60px" style="padding-right:10px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
@@ -20,9 +19,8 @@
 
 </br>
 </br>
-</br>
-</br>
 
+<img/>
 <img align="left" width="60px" style="padding-right:10px;"  alt="csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 
 <img align="left" width="60px" style="padding-right:10px;" alt="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
