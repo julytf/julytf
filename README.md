@@ -8,6 +8,15 @@
 
 ---
 
+### 📑 Certification
+
+- Toeic score 850
+- [Javascript Intermediate (HackerRank)](https://www.hackerrank.com/certificates/9c9d516d933b)
+- [SQL Intermediate (HackerRank)](https://www.hackerrank.com/certificates/cc3669547428)
+
+
+---
+
 ### 🧰 Languages and Frameworks
 
 <img/>
