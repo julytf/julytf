@@ -4,7 +4,7 @@
 
 - ✏ I'm currently a 4rd year student at [Can Tho University](https://www.facebook.com/CTUDHCT)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/l%C3%A2m-ch%E1%BA%A5n-v%C5%A9-b4389321b/)
-- ✉ Email: chanvucktv@gmail.com
+- ✉ Email: julytf.liyc@gmail.com
 
 ---
 
